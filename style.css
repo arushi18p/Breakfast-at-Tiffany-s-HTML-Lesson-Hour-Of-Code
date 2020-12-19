@@ -2,8 +2,13 @@ img {
   width: 300px
 }
 body {
-  text-align: center;
-  font-family:cursive;
-  background:#81D8D0;
-  color: #000
+    background-image: url('https://media0.giphy.com/media/bYR0iptD1PaqQ/giphy.gif');
+    background-size: cover;
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+    text-align: center;
+    font-family:cursive;
+    color: #000
 }
